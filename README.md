@@ -26,5 +26,4 @@ My goal: become a software developer focused on back end.
 
 ### GitHub stats
 
-![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Augustovilasb&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augustovilasb&layout=compact&hide_border=true)
+![Augusto's GitHub metrics](./github-metrics.svg)
