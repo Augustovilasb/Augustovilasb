@@ -1,14 +1,11 @@
 ## Hi, I'm Augusto
 
-I'm changing careers into tech, building my foundations the hands on way.  
-Studying every day and shipping projects along the road.  
-My main goal here is to become a software developer, focused on back end.
-
-I'm a manufacturing engineer and, after 7 years in the field, I'm making the switch into tech.
+Manufacturing engineer for 7 years, now making the switch into tech.  
+Building my foundations the hands-on way — studying every day and shipping projects.  
+My goal: become a software developer focused on back end.
 
 ### What I'm working on
 
-- Moving from front end toward a back end career
 - **[Programming-Logic](https://github.com/Augustovilasb/Programming-Logic)** — Java exercises, my foundation for [Harvard CS50](https://cs50.harvard.edu/)
 - **[Maratona Java](https://github.com/Augustovilasb/Maratona-Java-Virado-no-Jiraya)** — code from DevDojo's Java course, in progress
 - Running **[D30](https://github.com/Augustovilasb/D30)**, a free community that helps people switch careers into tech at any age
@@ -19,7 +16,8 @@ I'm a manufacturing engineer and, after 7 years in the field, I'm making the swi
 
 ### Tech
 
-Java · MySQL · NoSQL · Git & GitHub
+**Using:** Java · Git & GitHub  
+**Learning:** C# · MySQL · NoSQL · Linux (Ubuntu) · how the internet works
 
 ### Reach me
 
