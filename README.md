@@ -19,8 +19,9 @@ I'm a manufacturing engineer and, after 7 years in the field, I'm making the swi
 
 ### Tech
 
-Java · JavaScript · HTML · CSS · React · Git
+Java · MySQL · NoSQL · Git & GitHub
 
 ### Reach me
 
-- D30 on Instagram: [@dev.aos30](https://www.instagram.com/dev.aos30/)
+- Instagram: [@dev.aos30](https://www.instagram.com/dev.aos30/)
+- LinkedIn: [augustovilasboas](https://www.linkedin.com/in/augustovilasboas/)
