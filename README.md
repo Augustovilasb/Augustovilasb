@@ -6,14 +6,13 @@ I'm a manufacturing engineer and, after 7 years in the field, I'm making the swi
 
 ### What I'm working on
 
-- I started in front end and I'm moving toward a back end career
-- Building my foundations in programming logic across C, C#, Java and Python
-- Finishing a full Java course (DevDojo), which has been a great experience
-- Preparing for [Harvard CS50](https://cs50.harvard.edu/)
-- Building **[D30](https://github.com/Augustovilasb/D30)**, a free community that helps people switch careers into tech at any age
+- Moving from front end toward a back end career
+- Building my programming foundations across C, C#, Java and Python while preparing for [Harvard CS50](https://cs50.harvard.edu/)
+- Running **[D30](https://github.com/Augustovilasb/D30)**, a free community that helps people switch careers into tech at any age
 
 ### My own projects
 
+- **[vilasbarber](https://github.com/Augustovilasb/vilasbarber)** — my very first project ever, where I got hooked on programming
 - **[Programming-Logic](https://github.com/Augustovilasb/Programming-Logic)** — Java exercises, my foundation for CS50
 - **[Maratona Java](https://github.com/Augustovilasb/Maratona-Java-Virado-no-Jiraya)** — code from DevDojo's Java course, in progress
 
