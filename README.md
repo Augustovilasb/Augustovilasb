@@ -1,6 +1,8 @@
 ## Hi, I'm Augusto
 
-I'm changing careers into tech and building my foundations the hands on way: studying every day and shipping projects along the road.
+I'm changing careers into tech and building my foundations the hands on way, studying every day and shipping projects along the road. My main goal here is to become a software developer, focused on back end.
+
+I'm a manufacturing engineer and, after 7 years in the field, I'm making the switch into tech.
 
 ### What I'm working on
 
