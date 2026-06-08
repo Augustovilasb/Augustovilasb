@@ -1,17 +1,14 @@
-# Hi, I'm Augusto
-
-Security professional transitioning into tech.
-Building my foundations the hands-on way — studying every day and shipping projects.
-My goal: become a DevOps Engineer.
-
-## What I'm working on
-- **Programming-Logic** — Java exercises and programming fundamentals
-- **Maratona Java** — DevDojo's Java course
-- Running **D30**, a free community that helps people switch careers into tech
+## Hi, I'm a pofessional making a deliberate move into tech.
+Studying every day and shipping real projects.
 
 ## Tech
-**Using:** Java · Git & GitHub · Linux (Ubuntu/WSL)  
-**Learning:** C · Python · Networking · Cloud fundamentals
+- Java, built through hundreds of Programming Logic exercises
+
+## Currently building
+- Python & C — automation, scripting, and systems understanding
+- C# — corporate market and backend development
+- Linux — the OS powering 90% of the world's servers
+- Networking & Cloud — the backbone of modern infrastructure
 
 ## Reach me
 - Instagram: @dev.aos30
